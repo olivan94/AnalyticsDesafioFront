@@ -1,6 +1,8 @@
 # Color Guess
 Desafio Frontend Analytics — advinhe o código HEX das cores
 
+![image](https://github.com/olivan94/AnalyticsDesafioFront/blob/main/assets/Captura%20de%20tela%202023-10-18%20181351.png)
+
 ## Como o jogo funciona?
 O jogo consiste em acertar o máximo possível de cores em 30s. Quando o jogo inicia, uma cor aleatória irá aparecer e com ela 3 opções de resposta (em hexadecimal), sendo duas incorretas (geradas aleatoriamente), e uma correta.
 
