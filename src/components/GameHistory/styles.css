@@ -1,0 +1,54 @@
+
+.history-container {
+  min-width: 16em;
+  background-color: #0f0d0d54;
+  padding: 2em 0;
+  overflow: auto;
+}
+  
+.subcontainer {
+  margin-top: 2em;
+  border-top: 2px solid #242424;
+  border-bottom: 2px solid #242424;
+  padding: 1em 0;
+}
+
+.history-card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.history-list {
+  margin: 1em 0;
+}
+
+.history-colors {
+  display: flex;
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+  height: fit-content;
+  width: 11em;
+  overflow: hidden;
+}
+
+.hexcolor:first-child {
+  border-right: 1px solid whitesmoke;
+}
+
+.hexcolor {
+  margin: 0;
+  padding: 0.5em;
+  width: 100%;
+}
+
+.time-tag {
+  border: 1px solid whitesmoke;
+  border-radius: 100px;
+  height: 2em;
+  width: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
